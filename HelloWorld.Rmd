@@ -2,6 +2,6 @@
 title: "Untitled"
 author: "JH"
 date: "8/8/2021"
-output: html_document
+output: pdf_document
 ---
 ## This is a markdown file
